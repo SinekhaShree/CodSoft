@@ -74,6 +74,12 @@ python src/evaluate.py
 ## Make predictions:
 python main.py --message "Your free entry into our contest..."
 
+## Results
+Accuracy: 96.23%
+Precision: 100%
+Recall: 72%
+F1 Score: 83.72%
+
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
 
